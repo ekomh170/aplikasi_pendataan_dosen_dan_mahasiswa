@@ -1,0 +1,41 @@
+*  {
+	margin: 0;
+	padding: 0;
+	font-family: Eras Demi ITC, sans-serif;
+}
+
+body {
+	background-image: url('../img/unhan.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.container{
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 100%;
+}
+
+.container div{
+	text-transform: uppercase;
+	display: block;
+}
+
+.text1{
+	color: black;
+	font-size: 80px;
+	font-weight: 700;
+	letter-spacing: 8px;
+	margin-bottom: 20px;
+	position: relative;
+	animation: text 3s 1;
+}
+
+.text2{
+	font-size: 60px;
+	color: black;
+	letter-spacing: 8px;
+}
