@@ -38,7 +38,8 @@
 
 <img src="assets_readme/Halaman_Utama.PNG" alt="Contoh_Gambar">
 <img src="assets_readme/Halaman_Utama_Setelah_Login.PNG" alt="Contoh_Gambar">
-<img src="assets_readme/Penerimaan_dan_Pendataan.PNG" alt="Contoh_Gambar">
+<img src="assets_readme/Detail.PNG" alt="Contoh_Gambar">
+<img src="assets_readme/Form.PNG" alt="Contoh_Gambar">
 
 ## Alat Yang Digunakan Untuk Membuat Web :
 
